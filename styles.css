@@ -1,0 +1,173 @@
+body{
+    background-color: #f1f1f1;
+    padding-top: 30px;
+}
+.top-header{
+    font-family: 'Lobster', cursive;
+font-family: 'Oswald', sans-serif;
+    background-color: #bce6eb;
+    height: 150px;
+    text-align: left;
+    line-height: 75px;
+    margin-left: -100%;
+    margin-right: -100%;
+    clear: both;
+    position: left;
+    padding-top: 10px;
+    
+}
+
+.linkedin{
+    text-decoration: white;
+    color:black;
+}
+
+.instagram{
+    text-decoration: white;
+    color: black;
+}
+
+.gtihub{
+    text-decoration: white;
+    color:black;
+}
+.change{
+    text-align: center;
+}
+
+.footer{
+    background-color: #bce6eb;
+}
+
+
+.codeimg{
+    height: 200px;
+
+}
+
+.ccimg{
+    height: 10px;
+}
+
+
+.yashvardhan{
+   text-align: center;
+}
+
+.yashvardhan-image{
+    height: 200px;
+}
+
+.coding-image{
+    align-items: center;
+    height: 300px;
+    background-color: #bce6eb;
+    width: 100%;
+back
+}
+
+.technologies{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+font-family: 'Oswald', sans-serif;
+
+}
+
+
+
+.technologiesimg{
+    height: 400px;
+    
+  background-color: #bce6eb;
+  margin-left: -100%;
+    margin-right: -100%;
+    clear: both;
+    width: 512px;
+  
+    
+}
+
+.webd{
+    color: #892cdc;
+}
+
+.social{
+    color: #892cdc;
+}
+
+.projects{
+    font-family: 'Lobster', cursive;
+font-family: 'Oswald', sans-serif;
+
+
+}
+
+.project5{
+    color: #892cdc;
+
+}
+
+.project-building{
+    color: #892cdc;
+
+}
+
+.Tech{
+    color: #892cdc;
+
+}
+
+.project1{
+    background-color: #bce6eb;
+    height: 50px;
+    text-align: 35px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+
+
+.classname {
+	-moz-box-shadow: 0px 10px 14px -7px #276873;
+	-webkit-box-shadow: 0px 10px 14px -7px #276873;
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #599bb3), color-stop(1, #408c99) );
+	background:-moz-linear-gradient( center top, #599bb3 5%, #408c99 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#599bb3', endColorstr='#408c99');
+	background-color:#599bb3;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #3d768a;
+}.classname:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #408c99), color-stop(1, #599bb3) );
+	background:-moz-linear-gradient( center top, #408c99 5%, #599bb3 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#408c99', endColorstr='#599bb3');
+	background-color:#408c99;
+}.classname:active {
+	position:relative;
+	top:1px;
+
+
+
